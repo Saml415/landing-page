@@ -1,8 +1,15 @@
+
+
 li{
-    text-align: right;
+    float: right;
     list-style-type: none;
+    display: inline;
+    background-color: rgba(0, 128, 0, 0.363);
+   
 
+}
 
-body{
+body {
     background-color: #ebe7eb;
 }
+
